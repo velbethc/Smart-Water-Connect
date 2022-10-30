@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hey Harris! If you are seeing this page, you have successfully deployed your first React app to AWS Amplify!
+          We are the best team ever! 
         </p>
         <a
           className="App-link"
